@@ -1,7 +1,8 @@
 ### Hello
 
-* test version 2.0
+* test version 2.1
 * ajout de la ligne suivante
-* ajout dans la branche 5
+* ajout dans la branche 8
 * mise à jour de doc5
 * modif doc1 branche principale
+* branche C3
